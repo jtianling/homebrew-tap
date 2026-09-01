@@ -1,7 +1,8 @@
 class DualYazi < Formula
   desc "Dual-pane file manager based on yazi"
   homepage "https://github.com/jtianling/dual-yazi"
-  url "https://github.com/jtianling/dual-yazi/archive/refs/tags/v0.1.0-dual.tar.gz"
+  url "https://github.com/jtianling/dual-yazi/releases/download/v0.1.0-dual/dual-yazi-0.1.0-dual.tar.gz"
+  version "0.1.0-dual"
   sha256 "0d08d0992788f8f91d85b0eec20a430317e8a911e522b598a0ce08dc0859cf0d"
   license "MIT"
   head "https://github.com/jtianling/dual-yazi.git", branch: "main"
